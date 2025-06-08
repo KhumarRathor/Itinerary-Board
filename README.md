@@ -1,6 +1,6 @@
 # 🧳 Interactive Itinerary Board
 
-A fully interactive travel itinerary planner built with HTML, CSS (Tailwind), and vanilla JavaScript. Easily add, edit, reorder, and manage daily travel activities—all in a beautiful, accessible interface with light/dark mode support and advanced export/share options.
+A fully interactive travel itinerary planner built with HTML, CSS (Tailwind), and vanilla JavaScript. Easily add, edit, reorder, and manage daily travel activities—all in a beautiful, accessible interface with light/dark mode support and advanced export/share options
 
 ## ✨ Features
 
